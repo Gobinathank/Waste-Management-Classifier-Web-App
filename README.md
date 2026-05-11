@@ -112,11 +112,7 @@ It is loaded during runtime to classify images into **Organic** or **Recyclable*
 
 ## 👨‍💻 Author
 
-**Elamaran V**
-📍 Final Year B.Tech Artificial Intelligence & Data Science
-🎓 Vel Tech High Tech Dr. Rangarajan Dr. Sakunthala Engineering College
-🔗 [GitHub](https://github.com/elamaran25) | [LinkedIn](https://www.linkedin.com/in/elamaran25)
-
+**Gobinathan K**
 ---
 
 ---
