@@ -113,9 +113,4 @@ It is loaded during runtime to classify images into **Organic** or **Recyclable*
 ## 👨‍💻 Author
 
 **Gobinathan K**
----
 
----
-
-Would you like me to also include **sample screenshots (placeholders)** in the README (like UI home page, upload form, classification result), so it looks more attractive on GitHub?
-```
